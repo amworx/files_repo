@@ -1,0 +1,14 @@
+{
+    "AdminUPN": "admin_abdmustafa@sy.goal.ie",
+    "DistributionList": "syriaprog-idliboffices@sy.goal.ie",
+    "Groups": {
+        "MetaComplianceUsers": "a07df578-b347-43fd-b3be-f93b985866b6",
+        "SyriaE1": "8ce042c5-a71a-41bd-bcfd-17c393903d5f",
+        "SY_AMP_EPM": "0bf8bbe6-769b-4d6e-a0b8-746c94de8412",
+        "MicrosoftE3": "2fec3b00-899f-45b7-bc87-9a0f26d62783"
+    },
+    "CSVFileName": "members.csv",
+    "Language": "en-US",
+    "TimeZone": "Turkey",
+    "PasswordKeyUrl": "https://gist.githubusercontent.com/amworx/2ccb2256091be75eaaecb808dc378e20/raw/112abdea4ac94ebb4394e6962d860000927f32b4/_reverse_script_key.txt"
+}
